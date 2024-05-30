@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <h3>Technical Skills</h3>
     <ul>
       <li>GIS Applications</li>
-      <li>Develop Java Porrams</li>
+      <li>Develop Java Programs</li>
       <li>Identifying city Sustainability</li>
       <li>Customer Service</li>
       <li>Training</li>
