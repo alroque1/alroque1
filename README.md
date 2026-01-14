@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <h1> Hi there 👋</h1>
 <p><b><a href="https://www.behance.net/angelaroque2">Behance</a></b> </p>
 
-<img src="https://myreadme.vercel.app/api/embed/alroque1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h2>About Me</h2>
 <p>My name is Angela Roque and I am a full-time student at ASU, working part-time to get a degree in GIT (Graphic Information Technology). After I graduate, I plan to find a better job that I can enjoy while putting my skills to use and gaining new knowledge. In terms of coding, I really enjoy it because I get to be involved in the process of creating the final product. </p>
