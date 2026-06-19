@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>My name is Angela Roque and I am a full-time student at ASU, working part-time to get a degree in GIT (Graphic Information Technology). After I graduate, I plan to find a better job that I can enjoy while putting my skills to use and gaining new knowledge. In terms of coding, I really enjoy it because I get to be involved in the process of creating the final product. </p>
   <h3>Technical Skills</h3>
     <ul>
-      <li>GIS Applications</li>
+      <li>GIT Applications</li>
       <li>Develop CSS and HTML Programs</li>
       <li>Adobe Softwares</li>
       <li>Customer Service</li>
